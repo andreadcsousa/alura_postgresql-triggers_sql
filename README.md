@@ -219,8 +219,8 @@ Outra boa prática é evitar o uso do ELSE, isso é chamado de *early return*. E
 
 ### **Ferramentas de edição**
 
-- pgAdmin
-- SQL Manager
-- Datagrip
+- [pgAdmin](https://www.pgadmin.org/download/)
+- [SQL Manager](https://www.sqlmanager.net/products/postgresql/manager#)
+- [Datagrip](https://www.jetbrains.com/pt-br/datagrip/)
 
 ⬆️ [Voltar ao topo](#postgresql-triggers-transações-erros-e-cursores) ⬆️
